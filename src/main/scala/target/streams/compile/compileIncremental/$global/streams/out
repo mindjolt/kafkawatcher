@@ -1,0 +1,69 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala, /Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala, /Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala, /Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala, /Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_26e90dbf[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/ashishkumar/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_e257b6cf/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/jansi.jar:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/jline.jar:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/vg/2ns6dslj52g9j926rl7ntlsh0000gn/T/sbt_d4ac84ae/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 7.402 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 777018d9, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes:/Users/ashishkumar/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.consumer._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/consumer.scala:20: not found: type KafkaConsumer[0m
+[0m[[31merror[0m] [0m  val kfk_consumer = new KafkaConsumer[String,String](props)[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala:3: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.producer._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala:13: not found: type KafkaProducer[0m
+[0m[[31merror[0m] [0m  val producer = new KafkaProducer[String, String](props)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/ashishkumar/IdeaProjects/kafkawatcher/src/main/scala/producer.scala:19: not found: type ProducerRecord[0m
+[0m[[31merror[0m] [0m    val record = new ProducerRecord(topic, "key"+i, "value"+i)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m5 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
