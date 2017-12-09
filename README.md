@@ -13,7 +13,7 @@ A tool that would read CS ticket from Kafka and insert it into MapD
 sbt universal:packageZipTarball
 
 **If you want to check the code is running you run the 'sbt run' command with these two parameters arg1 = (number of hours before current), arg2 = (specific consumer group). Both are optional and default value will give you a new consumer group with last 12 hours of data.
-
+```
 -MapD config:
 in mapD create a new table.
 ```
