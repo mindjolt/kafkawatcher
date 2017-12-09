@@ -12,11 +12,12 @@ _-External library needed :_
 _-Building Executables_
    
     Go to the folder where build.sbt file is present and run the following commands 
+
 ```sbt compile
 sbt universal:packageZipTarball
-
-**If you want to check the code is running you run the 'sbt run' command with these two parameters arg1 = (number of hours before current), arg2 = (specific consumer group). Both are optional and default value will give you a new consumer group with last 12 hours of data.
 ```
+(If you want to check the code is running you run the 'sbt run' command with these two parameters arg1 = (number of hours before current), arg2 = (specific consumer group). Both are optional and default value will give you a new consumer group with last 12 hours of data.)
+
 _-MapD config_
 
 in mapD create a new table.
